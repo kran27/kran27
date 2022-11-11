@@ -1,5 +1,5 @@
 <p align="center">
-Hi, I'm Kran.  I mostly focus on making projects that interest me, which typically ends up being niche video game related tools and software, random tools I couldn't find elsewhere, random projects I think up, and any libraries I end up making to complete those projects.
+Hi, I'm <a href="https://github.com/kran27"><img src="https://kran.keybase.pub/kran27.png" width=12/></a> Kran.  I mostly focus on making projects that interest me, which typically ends up being niche video game related tools and software, random tools I couldn't find elsewhere, random projects I think up, and any libraries I end up making to complete those projects.
 </p>
 
 ---
