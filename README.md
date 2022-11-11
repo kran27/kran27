@@ -1,6 +1,6 @@
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kran27&hide_border=true&theme=github_dark&show_icons=true&hide=prs,issues" width=450/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kran27&hide_border=true&layout=compact&theme=github_dark" width=318/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kran27&hide_border=true&layout=compact&theme=github_dark" width=318 align="top" />
 </p>
 <p float="left" align="center">
   <img src="https://img.shields.io/static/v1?style=flat-square&label=%20&message=Software%20I%20Use:&color=0d1117"/>
