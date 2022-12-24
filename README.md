@@ -2,21 +2,24 @@
 Hi, I'm <a href="https://github.com/kran27"><img src="https://kran.keybase.pub/kran27.png" width=12/></a> Kran.  I mostly focus on making projects that interest me, which typically ends up being niche video game related tools and software, random tools I couldn't find elsewhere, random projects I think up, and any libraries I end up making to complete those projects.
 </p>
 
----
+<h2 align="center">What I'm Working On:</h2>
+<p align="center">
+I'm currently working on finishing my <a href="https://github.com/kran27/VBEditor">Van Buren Editor</a>, then I'll be updating <a href="https://github.com/kran27/VanBurenLauncher">the launcher</a> to make loading of mods a bit smoother, then I have my sights set on tackling the formats used for Fallout: Brotherhood of Steel. Won't be making any modding tools there, but I would like to see the formats reverse engineered. Tools for other Snowblind Engine games exists, but are incompatible.
+</p>
+ 
+<h2> </h2>
 <p align="center">
 If you want to get in contact for whatever reason, the best way to do so is via Discord or Twitter
 <br><a href="https://github.com/kran27"><img src="https://img.shields.io/static/v1?style=flat-square&label=%20&message=Kran%236169&color=5662f6&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAABkUlEQVRIx+2VLUgEURSFvzdF1KDIgEUZsK0YhNXoDwgqaBQ0GATBNZgEk3mzxWI2GVw2iKhBcFabYNLsCuIPazDsYjuGnX3Mm3GFXatnyr3nnXfnvTuHO/AP46bqYp4JJqmaycRKSDchJc5MrUkBTbDFIl1RukuFETqAL+7xyUd8jRP2TSl1FO2oFWwntw+q2lKBqgK3wKFaxWF8e0btIPOX99szGFA/r22aYMA8e8B62y5aq1/gTu3iDlCQIN+1BMoodNhQGdCSygl1gFYT1FzD1Hqw3IMif2o2oV71GHduVTbnkcdrHFn2uOF/c0HZ0Wc9Rh2iEos/bfTRRAGjHr1uRfk2nrLRjHWMT9bR95HqbFi/rzYcdiPqy1VSbqTU161wyjBjCfaWexbwUwPlhwItwfvrSPN4c/JLir/qi1w6+ZvHMo8xYogiATkKPDnCFwpsElBgKMY+slLvbd6ZR2H0yTqUjZ7OxmB1ZlK+4U9AvvZskelm59eM3bwnP73co5yudfBbC3SgG+XU8/8/jOMb/1FYQfrpXm4AAAAASUVORK5CYII="/></a>
 <a href="https://twitter.com/kran27_"><img src="https://img.shields.io/static/v1?style=flat-square&label=%20&message=@kran27_&color=00b0ed&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB9UlEQVRYw+2Xz0tUURTHP3dQhkImysBFKO0KgggThAQhF1EQtHBVkC2kFgXRLiKCIOg/aNOqVZsgCJFaVoRBPySDMmZT4SZFIRKpKPy0uQPPaXTm3XGEwi88Hve9y/mcd85755wHm/pfpBbUU+qY+kmdVZ+pV9XtNfb3qiF74WQT8F3qc1fXvHpELamn1Sfqw6yBwbjxYgK8pJatr5/xUJ1Td2eN3MxsvLEiNPUduGU+fVYH1BPqaMXI7apNY2pXA/Bt6o+cDsyry+oHtasQbX2tsn0cmFbPq+1r+HAIKObMWifwBjgcQpitPMnRNTz+qF5Sd9SIwKj59VbtqDYU4o16L9F4dKZfLarDCQ48WC2fver3nMYWExy4m+UWIvwCsB+4DPzKkc+OhLKxkF20xXN3hG+Eyn9FAHi6gVX7VXYRKnUceAfsbTH8G9AZQvi9IgIhhGVgBFhqsQPjWXitL6FPfW/rNNRIaT2gXo8NYz01WYvZVrUuAhPAlhaE/0qj3e1aC0J/L+9kc2cd4TPqzpQpZyS2zGa0pPY1O+vtUV8mwoeahQ+qrxPgc+pAKrRHPRcn2hQ9VrvzAA+q99UpdaGJfH9Rz6Y+dbt6Rp1IAE/F0W1rCjvUSgFwDOgH9gE9QCn2jUVgBpgGXgCPQgjlzd+yf1p/AAAsqbXlt72zAAAAAElFTkSuQmCC"/></a>
 </p>
-
----
+<h2> </h2>
 <p align="center">
  <a href="https://github.com/kran27">
   <img src="https://github-readme-stats.vercel.app/api?username=kran27&hide_border=true&theme=github_dark&show_icons=true&hide=prs,issues" width=450/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kran27&hide_border=true&layout=compact&theme=github_dark" width=318 align="top"/>
  </a>
 </p>
-
----
+<h2> </h2>
 <p align="center">
  <a href="https://github.com/kran27"><img src="https://img.shields.io/static/v1?style=flat-square&label=%20&message=Software%20I%20Use:&color=0d1117"/></a>
  <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/static/v1?style=flat-square&label=%20&message=Visual%20Studio&color=945db7&logo=visualstudio"/></a>
