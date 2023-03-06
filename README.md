@@ -1,10 +1,10 @@
 <p align="center">
-Hi, I'm <a href="https://github.com/kran27"><img src="https://kran.keybase.pub/kran27.png" width=12/></a> Kran.  I mostly focus on making projects that interest me, which typically ends up being niche video game related tools and software, random tools I couldn't find elsewhere, random projects I think up, and any libraries I end up making to complete those projects.
+Hi, I'm Kran.  I mostly focus on making projects that interest me, which typically ends up being niche video game related tools and software, tools I couldn't find elsewhere, random projects I think up, and any libraries I end up making to complete those projects.
 </p>
 
 <h2 align="center">What I'm Working On:</h2>
 <p align="center">
-I'm currently working on finishing my <a href="https://github.com/kran27/VBEditor">Van Buren Editor</a>, then I'll be updating <a href="https://github.com/kran27/VanBurenLauncher">the launcher</a> to make loading of mods a bit smoother, then I have my sights set on tackling the formats used for Fallout: Brotherhood of Steel. Won't be making any modding tools there, but I would like to see the formats reverse engineered. Tools for other Snowblind Engine games exists, but are incompatible.
+I'm currently working on finishing my <a href="https://github.com/kran27/VanBurenTools">Van Buren Tools</a>, and don't have anything planned for after that.
 </p>
  
 <h2> </h2>
