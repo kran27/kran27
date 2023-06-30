@@ -4,7 +4,7 @@ Hi, I'm Kran.  I mostly focus on making projects that interest me, which typical
 
 <h2 align="center">What I'm Working On:</h2>
 <p align="center">
-I'm currently working on finishing my <a href="https://github.com/kran27/VanBurenTools">Van Buren Tools</a>, and don't have anything planned for after that.
+I'm currently working on finishing my <a href="https://github.com/kran27/VanBurenTools">Van Buren Tools</a>, and whatever i feel like adding to <a href="https://github.com/kran27/Spotiamp">Spotiamp</a>
 </p>
  
 <h2> </h2>
