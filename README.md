@@ -6,7 +6,7 @@ Hi, I'm Kran.  I mostly focus on making projects that interest me, which typical
 <h2></h2>
 <h3 align="center">What I'm Working On</h3>
 <p align="center">
-Not much here at the moment, mainly my <a href="https://github.com/kran27/VanBurenTools">Van Buren Tools</a>
+Not much here at the moment, mainly my <a href="https://github.com/kran27/VanBurenTools">Van Buren Tools</a> when I have time
 </p>
  <h2></h2>
 <h3 align="center">GitHub Stats</h3>
