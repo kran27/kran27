@@ -8,8 +8,7 @@ Hi, I'm Kran. I mostly make niche video game related tools and software, tools I
 <h2></h2>
 <h3 align="center">What I'm Working On</h3>
 <p align="center">
-In addition to the upkeep of my site, I mainly update my <a href="https://github.com/kran27/VanBurenTools">Van Buren Tools</a> (though admittedly have been spending less time on that lately).
-<br><br>I also do some reverse engineering for <a href="https://x.com/GamesPastOrg">Games' Past</a>, such as my <a href="https://github.com/kran27/DDXConv">DDXConv</a> tool and <a href="https://github.com/kran27/FalloutForXenia">FalloutForXenia</a> patches for their inaugural release.
+My main personal projects are the upkeep of my site, my <a href="https://github.com/kran27/VanBurenTools">Van Buren Tools</a>, and I do some reverse engineering for <a href="https://x.com/GamesPastOrg">Games' Past</a>. I've helped behind the scenes with recovery, and released my <a href="https://github.com/kran27/DDXConv">DDXConv</a> tool and <a href="https://github.com/kran27/FalloutForXenia">FalloutForXenia</a> patches alongside the New Vegas release.
 </p>
  <h2></h2>
 <h3 align="center">GitHub Stats</h3>
