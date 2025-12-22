@@ -14,7 +14,7 @@ My main personal projects are the upkeep of my site, my <a href="https://github.
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
  <a href="https://github.com/kran27">
-  <img src="https://github-stats.kran.gg/api?username=kran27&hide_border=true&theme=github_dark&show_icons=true&hide=prs,issues" width=450/><img src="https://github-stats.kran.gg/api/top-langs/?username=kran27&hide_border=true&layout=compact&theme=github_dark&hide=html" width=318 align="top"/>
+  <img src="https://github-stats.kran.gg/api?username=kran27&hide_border=true&theme=github_dark&show_icons=true&hide=contribs" width=450/><img src="https://github-stats.kran.gg/api/top-langs/?username=kran27&hide_border=true&layout=compact&theme=github_dark&hide=html" width=318 align="top"/>
  </a>
 </p>
  <h2></h2>
